@@ -1,2 +1,2 @@
 # A-Color-Game
- A Color Game with jQuery
+ A Javascript Color Game
